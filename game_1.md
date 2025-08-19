@@ -73,7 +73,7 @@ Use the password from the site
 
 solution:
 1. enter url in google search
-2. ![img6.1][20250612230549.png]
+2. ![img6.1](20250612230549.png)
 3. 007games
 
 ### level 7 - https://sourcing.games/game-1/game-1-fs7ff/
