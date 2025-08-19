@@ -7,7 +7,7 @@ solution:
 - view html of webpage
 - password is located within div.main-container > section.text-center.space--lg > div.container > div.row
 
-![[images/Pasted image 20250612094039.png]]
+![1.1](/images/Pasted image 20250612094039.png)
 
 
 ### level 2 - https://sourcing.games/game-1/game-1-csa7a/
