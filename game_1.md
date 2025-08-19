@@ -26,19 +26,19 @@ Find the date when this URL (shortener) was created.
 Password is Month and Day (eg. “jan” and day “1”)
 https://bit.ly/mylnkbio
 
-solution: 
+solution:
 - adding a "+" to the end of a bit.ly link provides statistics on the link
 
 ![img3.1][images/20250612094632.png]
 
 ### level 4 - https://sourcing.games/game-1/game-1-wdd47k/
 
-I met James Jones a few years ago, and he helped me with some things at recruitment.camp. To speed up our communication, I gave him an email at recruitment.camp.  
+I met James Jones a few years ago, and he helped me with some things at recruitment.camp. To speed up our communication, I gave him an email at recruitment.camp.
 
 However, I had to learn how to create a professional email address, especially since James didn’t want to have a dot in the email address.
 
 His email is the password to the file below ([Download file](https://sourcing.games/wp-content/uploads/2024/04/james.docx)).
-  
+
 Hint: Don’t let bounce, disposable, spam-trap and deactivated emails decrease your sending reputation.
 
 **Note:** _Do not contact James or the owner (me) of recruitment.camp via email or contact form on the site!  Be a sourcer, the **hint is enough.** Spamming will get your IP blocked._
@@ -65,7 +65,7 @@ solution:
 
 ### level 6 - https://sourcing.games/game-1/game-1-ku7xa/
 
-One folder of this website “inovace.eu” was indexed by Google. 
+One folder of this website “inovace.eu” was indexed by Google.
 
 You can find there the password for the next level.
 
