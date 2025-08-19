@@ -29,7 +29,7 @@ https://bit.ly/mylnkbio
 solution:
 - adding a "+" to the end of a bit.ly link provides statistics on the link
 
-![img3.1][images/20250612094632.png]
+![img3.1](images/20250612094632.png)
 
 ### level 4 - https://sourcing.games/game-1/game-1-wdd47k/
 
@@ -59,7 +59,7 @@ solution:
 1. download image from stackoverflow profile
 2. search by images using google image search
 
-![img5.1][20250612230241.png|400]
+![img5.1](images/20250612230241.png|400)
 
 3. Kolja
 
@@ -73,7 +73,7 @@ Use the password from the site
 
 solution:
 1. enter url in google search
-2. ![img6.1](20250612230549.png)
+2. ![img6.1](images/20250612230549.png)
 3. 007games
 
 ### level 7 - https://sourcing.games/game-1/game-1-fs7ff/
